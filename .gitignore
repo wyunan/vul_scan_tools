@@ -144,8 +144,6 @@ venv/*
 # 一些存在敏感文件的内容不需提交至远程仓库
 .DS_Store
 
-190prod
-invoke_xray/*
 result
 logs
 crontab.sh
